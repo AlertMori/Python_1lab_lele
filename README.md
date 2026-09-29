@@ -38,17 +38,17 @@ python os_info.py
 
 ```json
 {
-    "os_name": "Linux",
-    "os_release": "6.18.44",
-    "os_version": "#1 SMP PREEMPT_DYNAMIC",
-    "architecture": "x86_64",
-    "cpu_count": 2,
-    "disk_total_gb": 251.97,
-    "disk_free_gb": 29.99,
-    "hostname": "vm",
-    "username": "user",
-    "home_dir": "/home/user",
-    "python_version": "3.11.15",
-    "collected_at": "2026-09-29T19:15:32"
+    "os_name": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "architecture": "AMD64",
+    "cpu_count": 18,
+    "disk_total_gb": 440.82,
+    "disk_free_gb": 370.48,
+    "hostname": "DESKTOP-0H89TIR",
+    "username": "alert",
+    "home_dir": "C:\\Users\\alert",
+    "python_version": "3.14.6",
+    "collected_at": "2026-09-29T19:47:08"
 }
 ```
